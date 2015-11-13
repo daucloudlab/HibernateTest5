@@ -1,5 +1,7 @@
 package kz.kazntu.lessons.manager;
 
+// http://www.codejava.net/frameworks/hibernate/getting-started-with-hibernate-annotations
+
 import kz.kazntu.lessons.models.Address;
 import kz.kazntu.lessons.models.Person;
 import kz.kazntu.lessons.utils.HibernateUtil;
